@@ -9,3 +9,6 @@
 body {
     font-family: "Roboto", sans-serif;
 }
+li {
+    list-style: none;
+}
